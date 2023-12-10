@@ -22,7 +22,7 @@
 
 1. 从[这里](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)复制 `_worker.js` 代码。
 
-2. 另外，你可以点击下面的按钮直接进行部署。
+2. 另外，你可以点击下面的按钮直接进行部署。//链接+UUID用不了 保留作者原文
 
    [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
 
